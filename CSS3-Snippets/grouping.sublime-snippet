@@ -1,0 +1,15 @@
+<!-- I use the CSSEdit/Espresso syntax in combination with the VIM syntax 
+I hope in the not too distant future code folding will be possible this way
+I added some clear dividers for editors without code folding. -->
+<snippet>
+    <content><![CDATA[/* @group $1 {{{
+================================================================= */
+
+$0
+
+/* @end $1
+--------------------------------------------------------------}}} */]]></content>
+    <tabTrigger>ggcss</tabTrigger>
+    <scope>source.css</scope>
+    <description>Grouping</description>
+</snippet>

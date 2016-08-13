@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[-webkit-box-shadow: ${1:1px} ${2:1px} ${3:1px} ${4:1px} ${5:rgba(111, 111, 111, 1)};
+   -moz-box-shadow: ${1:1px} ${2:1px} ${3:1px} ${4:1px} ${5:rgba(111, 111, 111, 1)};
+    -ms-box-shadow: ${1:1px} ${2:1px} ${3:1px} ${4:1px} ${5:rgba(111, 111, 111, 1)};
+     -o-box-shadow: ${1:1px} ${2:1px} ${3:1px} ${4:1px} ${5:rgba(111, 111, 111, 1)};
+        box-shadow: ${1:1px} ${2:1px} ${3:1px} ${4:1px} ${5:rgba(111, 111, 111, 1)};$0]]></content>
+    <tabTrigger>shadow</tabTrigger>
+    <scope>source.css</scope>
+    <description>box-shadow: size</description>
+</snippet>

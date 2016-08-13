@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alert('${1:msg}');
+]]></content>
+	<tabTrigger>al</tabTrigger>
+	<scope>source.js, source.jsx, source.ts</scope>
+	<description>alert</description>
+</snippet>

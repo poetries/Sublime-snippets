@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[-webkit-box-sizing: ${1:border-box|content-box|padding-box};
+   -moz-box-sizing: ${1:border-box|content-box|padding-box};
+        box-sizing: ${1:border-box|content-box|padding-box};$0]]></content>
+    <tabTrigger>box</tabTrigger>
+    <scope>source.css</scope>
+    <description>box-sizing: border-box | content-box | padding-box;</description>
+</snippet>

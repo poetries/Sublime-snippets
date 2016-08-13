@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[-webkit-transform: translate(${1:1px}, ${2:1px});
+   -moz-transform: translate(${1:1px}, ${2:1px});
+    -ms-transform: translate(${1:1px}, ${2:1px});
+     -o-transform: translate(${1:1px}, ${2:1px});
+        transform: translate(${1:1px}, ${2:1px});$0]]></content>
+    <tabTrigger>translate</tabTrigger>
+    <scope>source.css</scope>
+    <description>transform: translate(1px, 1px)</description>
+</snippet>

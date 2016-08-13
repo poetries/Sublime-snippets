@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+confirm('${1:msg}');
+]]></content>
+	<tabTrigger>co</tabTrigger>
+	<scope>source.js, source.jsx, source.ts</scope>
+	<description>confirm</description>
+</snippet>

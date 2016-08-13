@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[-webkit-transform: skew(${1:1deg}, ${2:1deg});
+   -moz-transform: skew(${1:1deg}, ${2:1deg});
+    -ms-transform: skew(${1:1deg}, ${2:1deg});
+     -o-transform: skew(${1:1deg}, ${2:1deg});
+        transform: skew(${1:1deg}, ${2:1deg});$0]]></content>
+    <tabTrigger>skew</tabTrigger>
+    <scope>source.css</scope>
+    <description>transform: skew(1deg, 1deg)</description>
+</snippet>

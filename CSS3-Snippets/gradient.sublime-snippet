@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[background: -webkit-linear-gradient(${1:top, rgba(250, 253, 254, 1.00), rgba(214, 238, 248, 1.00)});
+   background: -moz-linear-gradient(${1:top, rgba(250, 253, 254, 1.00), rgba(214, 238, 248, 1.00)});
+    background: -ms-linear-gradient(${1:top, rgba(250, 253, 254, 1.00), rgba(214, 238, 248, 1.00)});
+     background: -o-linear-gradient(${1:top, rgba(250, 253, 254, 1.00), rgba(214, 238, 248, 1.00)});
+        background: linear-gradient(${1:top, rgba(250, 253, 254, 1.00), rgba(214, 238, 248, 1.00)});$0]]></content>
+    <tabTrigger>gradient</tabTrigger>
+    <scope>source.css</scope>
+    <description>linear-gradient(top, rgba(250, 253, 254, 1.00), rgba(214, 238, 248, 1.00))</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[-webkit-column-rule: ${1:1px} ${2:dashed|dotted|double|groove|inset|outset|ridge|solid} ${3:#666};
+   -moz-column-rule: ${1:1px} ${2:dashed|dotted|double|groove|inset|outset|ridge|solid} ${3:#666};
+    -ms-column-rule: ${1:1px} ${2:dashed|dotted|double|groove|inset|outset|ridge|solid} ${3:#666};
+     -o-column-rule: ${1:1px} ${2:dashed|dotted|double|groove|inset|outset|ridge|solid} ${3:#666};
+        column-rule: ${1:1px} ${2:dashed|dotted|double|groove|inset|outset|ridge|solid} ${3:#666};$0]]></content>
+    <tabTrigger>col</tabTrigger>
+    <scope>source.css</scope>
+    <description>column-rule: things</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[background: ${1:#333} url($2) ${3:0} ${4:0} ${5:repeat|repeat-x|repeat-y|no-repeat|inherit|round|space} ${6:scroll|fixed|local};$0]]></content>
+    <tabTrigger>bg</tabTrigger>
+    <scope>source.css</scope>
+    <description>background: </description>
+</snippet>

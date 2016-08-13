@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[-webkit-transition: ${1:all} ${2:.3s} ${3:.1s} ${4:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(0.25, 0.1, 0.25, 1.0)};
+   -moz-transition: ${1:all} ${2:.3s} ${3:.1s} ${4:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(0.25, 0.1, 0.25, 1.0)};
+    -ms-transition: ${1:all} ${2:.3s} ${3:.1s} ${4:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(0.25, 0.1, 0.25, 1.0)};
+     -o-transition: ${1:all} ${2:.3s} ${3:.1s} ${4:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(0.25, 0.1, 0.25, 1.0)};
+        transition: ${1:all} ${2:.3s} ${3:.1s} ${4:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(0.25, 0.1, 0.25, 1.0)};$0]]></content>
+    <tabTrigger>trans</tabTrigger>
+    <scope>source.css</scope>
+    <description>transition: all .3s .1s ease;</description>
+</snippet>
